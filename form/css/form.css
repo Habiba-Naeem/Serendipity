@@ -1,0 +1,264 @@
+
+  body
+{ font-family: 'Ubuntu';
+    padding-left: 10% ;
+}
+  .v3_407 {
+    width: 100%;
+    color: rgba(0,0,0,1);
+    font-family: Reem Kufi;
+    font-weight: Regular;
+    font-size: 25px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v3_408 {
+    width: 100%;
+    color: rgba(0,0,0,1);
+    font-family: Reem Kufi;
+    font-weight: Regular;
+    font-size: 25px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v3_411 {
+    width: 337px;
+    height: 69px;
+    background: rgba(196,196,196,1);
+    opacity: 1;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    overflow: hidden;
+  }
+  .v3_412 {
+    width: 226px;
+    color: rgba(255,255,255,1);
+    font-family: Reem Kufi;
+    font-weight: Regular;
+    font-size: 25px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v3_413 {
+    width: 337px;
+    height: 69px;
+    background: rgba(196,196,196,1);
+    opacity: 1;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    overflow: hidden;
+  }
+  .v3_414 {
+    width: 226px;
+    color: rgba(255,255,255,1);
+    font-family: Reem Kufi;
+    font-weight: Regular;
+    font-size: 25px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v3_419 {
+    padding: 1%;
+    background: rgba(98,123,65,1);
+    opacity: 1;
+    border-radius: 10%;
+    color: white;
+  }
+  .v3_420 {
+    width: 154px;
+    color: rgba(255,255,255,1);
+    font-family: Reem Kufi;
+    font-weight: Regular;
+    font-size: 45px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v3_421 {
+    width: 100%;
+    height: 146px;
+    background: url("../images/v3_421.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    overflow: hidden;
+  }
+  .v3_422 {
+    width: 409px;
+    color: rgba(68,101,39,1);
+    font-family: Dancing Script;
+    font-weight: Regular;
+    font-size: 72px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v3_423 {
+    width: 578px;
+    height: 54px;
+    background: url("../images/v3_423.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 17px;
+    left: 781px;
+    overflow: hidden;
+  }
+  .v3_424 {
+    width: 183px;
+    color: rgba(105,37,33,1);
+    position: absolute;
+    top: 2px;
+    left: 0px;
+    font-family: Nunito;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v3_425 {
+    width: 183px;
+    color: rgba(105,37,33,1);
+    position: absolute;
+    top: 0px;
+    left: 197px;
+    font-family: Nunito;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v3_426 {
+    width: 183px;
+    color: rgba(105,37,33,1);
+    position: absolute;
+    top: 0px;
+    left: 395px;
+    font-family: Nunito;
+    font-weight: Regular;
+    font-size: 36px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v3_427 {
+    width: 180px;
+    height: 121px;
+    background: url("../images/v3_427.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 10px;
+    left: 0px;
+    overflow: hidden;
+  }
+  .v3_436 {
+    width: 100%;
+    color: rgba(76,104,38,1);
+    position: absolute;
+    top: 268px;
+    left: 60px;
+    font-family: Reem Kufi;
+    font-weight: Regular;
+    font-size: 48px;
+    opacity: 1;
+    text-align: center;
+  }
+  .v1_122 {
+    width: 448px;
+    height: 476px;
+    background: url("../images/v1_122.png");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    opacity: 1;
+    position: absolute;
+    top: 250px;
+    left: 800px;
+    overflow: hidden;
+  }
+  
+
+#title
+{
+background-color: #fff;
+color: #7d2e18;
+}
+.container-fluid
+{
+    padding:3% 15%;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight:900;
+    font-size: 3.3rem;
+    line-height: 1.5;
+    color: #7d2e18;
+    text-align: center;
+}
+h3{
+    font-family:'Montserrat' ;
+    color: #7d2e18;
+}
+h2{
+    font-family: "Montserrat";
+    font-size: 2.5rem;
+    line-height: 1.5;
+    text-align: center;
+    margin: auto;
+
+
+}
+h4{
+    text-align: center;
+    color: #7d2e18;
+}
+p{
+    color:#8f8f8f;
+}
+/* navigation bar */
+
+.navbar
+{
+    padding:0 0 4.5rem;
+}
+.navbar-brand
+{
+     font-family: 'Tangerine'; 
+    font-size: 2.5rem;
+    font-weight: bold;
+    }
+.nav-item
+{
+    padding: 0 18px;
+    color: #7d2e18;
+   
+}
+.nav-link
+{
+    font-size: 1.2rem;
+    font-family:'Montserrat-light';
+    color: #7d2e18;
+}
+.logo-image{
+    width: 122px;
+    height: 122px; 
+     border-radius: 50%; 
+     overflow: hidden; 
+    margin-top: -6px; 
+ }
+
+@media (max-width:1028px)
+{
+    #title
+    {
+        text-align:center;
+    }
+ 
+}
