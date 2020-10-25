@@ -1,0 +1,126 @@
+body
+{ font-family: 'Ubuntu';
+
+}
+#title
+{
+background-color: #fff;
+color: #7d2e18;
+}
+.container-fluid
+{
+    /* padding:1.5% 15%; */
+    padding-top: 1.5%;
+    padding-bottom: 0%;
+    padding-left:15% ;
+    padding-right: 15%;
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-weight:900;
+    font-size: 3.3rem;
+    line-height: 1.5;
+    color: #7d2e18;
+    text-align: center;
+}
+h3{
+    font-family:'Montserrat' ;
+    color: #7d2e18;
+}
+h2{
+    font-family: "Montserrat";
+    font-size: 2.5rem;
+    line-height: 1.5;
+    text-align: center;
+    margin: auto;
+
+
+}
+h4{
+    text-align: center;
+    color: #7d2e18;
+}
+p{
+    color:#8f8f8f;
+}
+/* navigation bar */
+
+.navbar
+{
+    padding:0 0 0rem;
+}
+.navbar-brand
+{
+     font-family: 'Tangerine'; 
+    font-size: 2.5rem;
+    font-weight: bold;
+    }
+.nav-item
+{
+    padding: 0 18px;
+    color: #7d2e18;
+   
+}
+.nav-link
+{
+    font-size: 1.2rem;
+    font-family:'Montserrat-light';
+    color: #7d2e18;
+}
+.logo-image{
+    width: 122px;
+    height: 122px; 
+     border-radius: 50%; 
+     overflow: hidden; 
+    margin-top: -6px; 
+ }
+
+@media (max-width:1028px)
+{
+    #title
+    {
+        text-align:center;
+    }
+ 
+}
+/* button */
+
+.issues
+{
+    /* display: flex; */
+    justify-content: space-around;   
+}
+.download-button
+{ background-color:#e8f00c;
+    color: #7d2e18;
+    width: 15%;
+   margin: 5% 8% 5% 8%; 
+}
+container {
+    justify-content: space-between;
+    flex-direction: column;
+    height: 100vh;
+    display: flex;
+  }
+  .container .btn-holder {
+    justify-content: flex-end;
+    display: flex;
+  }
+/* CTA Section  */
+#cta
+{
+    background-color: #fff;
+    color: #000000;
+    padding: 7% 15%;
+    text-align: center;
+}
+.cta-heading
+{
+    font-family: Montserrat;
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+.social-icon
+{
+    margin: 20px 10px;
+}

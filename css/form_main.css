@@ -173,7 +173,7 @@
   .v1_122 {
     width: 448px;
     height: 476px;
-    background: url("../images/v1_122.png");
+    background: url("../images/form_images/v1_122.png");
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
@@ -199,8 +199,8 @@ h1{
     font-weight:900;
     font-size: 3.3rem;
     line-height: 1.5;
-    color: #7d2e18;
-    text-align: center;
+    color: #ffd900;
+    text-align: left;
 }
 h3{
     font-family:'Montserrat' ;
@@ -254,6 +254,35 @@ p{
     margin-top: -6px; 
  }
 
+ 
+.details{
+  width: 20%;
+  background-color: #6EA61C;
+  opacity: 40%;
+  color: black;
+  position: absolute;
+  top: 200px;
+  left: 900px;
+}
+li{
+  list-style: none;
+}
+.last{
+  width: 20%;
+  color: black;
+  position: absolute;
+  top: 400px;
+  left: 900px;
+}
+#button{
+  background-color: rgb(255, 255, 0);
+  padding: 3%;
+  color: rgb(255, 255, 255);
+  font-weight: bold;
+  font-size: x-large;
+  border: transparent;
+  width: 100%;
+}
 @media (max-width:1028px)
 {
     #title
